@@ -22,7 +22,7 @@
     height: 70px;
 }
 .logo{
-    color: #ff7200;
+    color: #2b1e41;
     font-size: 35px;
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 20px;
@@ -57,7 +57,7 @@ ul li a{
 
 }
 ul li a:hover{
-    color: #ff7200;
+    color: #9072ba;
 }
 .search{
     width: 300px;
@@ -70,7 +70,7 @@ ul li a:hover{
     width: 150px;
     height: 50px;
     background: black;
-    border: 2px solid #ff7200;
+    border: 2px solid #9072ba;
     margin-top: 10px;
     color: #fff;
     border-right: #fff;
@@ -85,8 +85,8 @@ ul li a:hover{
 .btn{
     width: 80px;
     height: 50px;
-    background: #ff7200;
-    border: 30px solid #ff7200;
+    background: #9072ba;
+    border: 30px solid #9072ba;
    margin-top: 50px;
    color: #fff;
    border-bottom-right-radius: 50px;
@@ -126,7 +126,7 @@ ul li a:hover{
 .content .cn{
     width: 100px;
     height: 40px;
-    background: #ff7200;
+    background: #9072ba;
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -144,26 +144,26 @@ ul li a:hover{
     background-color: #fff;
 }
 .content span{
-    color: #ff7200;
+    color: #9072ba;
     font-size: 50px;
 }
 .form{
     width: 200px;
     height: 380px;
-    background: linear-gradient(to top, rgba(0,0,0,0)50%, rgba(0,0,0,0)50%);
+    background: linear-gradient(to top, rgba(255, 255, 255, 0)100%, rgba(255, 255, 255, 0)100%);
     position:absolute;
     top: -20px;
     left: 870px;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 25px;
 }
 .form h2{
     width: 220px;
     font-family: sans-serif;
     text-align: center;
-    color: #ff7200;
+    color: #fff;
     font-size: 22px;
-    background-color: #fff;
+    background-color: #9072ba;
     border-radius: 10px;
     margin: 2px;
     padding: 8px;
@@ -172,11 +172,11 @@ ul li a:hover{
     width: 240px;
     height: 35px;
     background: transparent;
-    border-bottom: 1px solid #ff7200;
+    border-bottom: 1px solid #201d2b;
     border-top: none;
     border-right: none;
     border-left: none;
-    color: white;
+    color: rgb(27, 19, 19);
     font-size: 15px;
     letter-spacing: 5px;
     font-family: sans-serif;
@@ -187,7 +187,7 @@ ul li a:hover{
 .btn{
     width: 240;
     height: 40px;
-    background-color: #ff7200;
+    background-color: #9072ba;
     border: none;
     margin-top: 30px;
     font-size: 18px;
@@ -197,8 +197,8 @@ ul li a:hover{
     transition: 0.4s ease;
 }
 .btn:hover{
-    background: #fff;
-    color: #ff7200;
+    background: #ffffff;
+    color: #9072ba;
 }
 .btn a{
     text-decoration: none;
@@ -213,7 +213,7 @@ ul li a:hover{
 }
 .form .link a{
     text-decoration:none;
-    color: #ff7200;
+    color: #9072ba;
 }
 .liw{
     padding-top: 15px;
@@ -232,6 +232,6 @@ ul li a:hover{
     transition: 0.3s ease;
 }
 .icon ion-icon:hover{
-    color: #ff7200;
+    color: #9072ba;
     
 }
